@@ -1,4 +1,4 @@
-# Patna-matro-map-app
+# Patna-metro-map-app
 Requirements
 Java Collection framework
 The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.
